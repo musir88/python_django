@@ -1,0 +1,810 @@
+
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'A wait of 245 seconds is required before sending another message in this chat (caused by SendMessageRequest)'}
+{'channel': 'https://t.me/tg1949521', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/a_k_3a', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/bitcoindfds', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The chat is restricted and cannot be used in that request (caused by SendMessageRequest)'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/BKEXChinese', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/szhkfun', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/ys52111', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/gm0008', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/diyidaifu', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/ColaChina', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'A wait of 3059 seconds is required before sending another message in this chat (caused by SendMessageRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/Socks55555', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/dbf6666', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/xianliao01', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/tg328', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/ColaChina', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/NodeGlobal', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/loufenha', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/dyjiaoliu', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/bohrwebc', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/mf_group', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/mingmen520', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/xbdb01', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/paofen1688', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/tgdl128', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/phbbs', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'A wait of 1545 seconds is required before sending another message in this chat (caused by SendMessageRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/HLS0002', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/bdzycom', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/lasihaima266', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/wz513064', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/usdt43', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/tg8848community', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/yinhangkausdt', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/tfwzclz', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/justmysockscn', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/shuju48', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/saltyleo_blog', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The chat is restricted and cannot be used in that request (caused by SendMessageRequest)'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/caoji565', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/hgmhxz', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/tianziusdt', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/BinancePoolChinese', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/ColaChina', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/az123818', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/zscd18', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/Shore999888', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/tg166', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The chat is restricted and cannot be used in that request (caused by SendMessageRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/zhifubaojiefeng', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The chat is restricted and cannot be used in that request (caused by SendMessageRequest)'}
+{'channel': 'https://t.me/QQXGQQ', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/sq577', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/paofen55', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/njwwjpxc', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/qxinw', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/huione888', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/yizhifu678', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'A wait of 2583 seconds is required before sending another message in this chat (caused by SendMessageRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'A wait of 1006 seconds is required before sending another message in this chat (caused by SendMessageRequest)'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'A wait of 541 seconds is required before sending another message in this chat (caused by SendMessageRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'A wait of 784 seconds is required before sending another message in this chat (caused by SendMessageRequest)'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/dfsdaeaw', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'Nobody is using this username, or the username is unacceptable. If the latter, it must match r"[a-zA-Z][\\w\\d]{3,30}[a-zA-Z\\d]" (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/daishoujiaoyi', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/daishou15', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/xbzijian', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/yugzf', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/zhuhai9', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'A wait of 1733 seconds is required before sending another message in this chat (caused by SendMessageRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/TG006', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You're banned from sending messages in supergroups/channels (caused by SendMessageRequest)"}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': "You can't write in this chat (caused by SendMessageRequest)"}
+{'channel': 'https://t.me/chaguaner', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/ussyu', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/tgyhzq', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/lhc168', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/tg_king80', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/sunshineyyds', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/gibxchange_cn', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/jfoisjfiodvfd', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/kedoucloud', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'channel': 'https://t.me/huobiglobal_zw', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/kmfw56789', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/db_lm', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/ccv348', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/bacommu', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/sq577', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/qipaipan54', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/kmfw6789', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/KavaChinese', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/www589qkcom', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/tgdibai168', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/huaxingyl8', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/shuju666886', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/tongdao25', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/shenma001', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/MDhuaren1', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/dyjiaoliu', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/yizhifu678', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/huiguophp', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/tiandeng88', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/lendhub', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/tongdao25', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/google_win', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/wz513064', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/gboxtg', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/QQXGQQ', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/MDhuaren1', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/ml520', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/cambodiacn', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/jianpuzai777', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/njwwjpxc', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/balance863', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/daishou44', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/usdtdfds', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/GouTuiClub', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/usdtbmw', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/linkdyh', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511946076432', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/huizhouqun', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/haojiyou', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/tgdl128', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/mla9999', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/dbf6666', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/monstainfinitechinese', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/Gm0008', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/paofen315', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/server699', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/pingan66shop', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/dijia02', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/BinancePoolChinese', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/DBhuaren1', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/doge88', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/gdsjq', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/olddrivergd', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/tg_88888', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/hwhrbbs', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/xbdb01', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/nbydxyk1', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511946076432', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/daishuvpn', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/fluxdefi', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/zhifuo', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/AlgorandFoundationCN', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/Zoey052697', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/sunshineyyds', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511946076432', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/wwxcxinting', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511946076432', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/chaxun2020', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/HuNanTG', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/lhc168', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511946076432', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/pigcommunity', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511946076432', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/baoaa', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/Gm0008', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/paofen33', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/tcelue1', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/cyj1188', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/haojing168', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/huaxingyl8', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/botong002', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/kavachinese', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/goutui', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/danbao96', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511946076432', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511946076432', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/doge88', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/hi_Official_Chinese', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/bclm1', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/pg528', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/phbbs', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/huizhouqun', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/x00008', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/TG6766', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/BKEXChinese', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511946076432', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/tglianmeng002', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/xcarnival_chinese', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/Sz1888', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/tg858', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/wangzhuanusdt', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511946076432', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/pshqo', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/DBhuaren1', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/aofexcn', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/tg8848community', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/ltq33', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511931737639', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511969823967', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511961598115', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511954029704', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511961023797', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511969921703', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5562998040680', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511969891873', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511957563838', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511946798197', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511969953864', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511946979711', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511931668915', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5562998548869', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'channel': 'https://t.me/dockertutorial', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/pcptm', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'channel': 'https://t.me/ftx_chinese_official', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'channel': 'https://t.me/discussimmigration', 'phone': '5571997131940', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'channel': 'https://t.me/mihuzahuopu', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'channel': 'https://t.me/binzhouqun', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'channel': 'https://t.me/light_up_comm', 'phone': '5511946076432', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '8801848186604', 'api_id': '9622791', 'api_hash': '91dd190fcfa1de714f726dca2ef46066', 'status': False, 'message': 'USER_DEACTIVATED_BAN', 'message_code': 1004, 'code': 1004, 'messageEnglish': 'The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)', 'messageChinese': '用户已被官方禁用'}
+{'phone': '919350772213', 'api_id': '16985951', 'api_hash': '738d089e1f73400cbe5e9ddd9298fe06', 'status': False, 'message': 'USER_DEACTIVATED_BAN', 'message_code': 1004, 'code': 1004, 'messageEnglish': 'The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511946076432', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511946076432', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5571997131940', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511946076432', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511967739326', 'code': 1008, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by GetDialogsRequest)'}
+{'phone': '5511946076432', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5571997131940', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511967739326', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511969921703', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5562998040680', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511954029704', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511969823967', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511961023797', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511931737639', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511961598115', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511946979711', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511931668915', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5562998548869', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511969891873', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511946798197', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511969953864', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '8801848186604', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '919350772213', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511957563838', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511946201704', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5547992260460', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511966948345', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511961119959', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511980694554', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5571996788540', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5511946166060', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '5586981722922', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '8801860587301', 'api_id': '11181701', 'api_hash': 'c4cc55b61449831023afc936777dfcfc', 'status': False, 'message': 'USER_DEACTIVATED_BAN', 'message_code': 1004, 'code': 1004, 'messageEnglish': 'The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)', 'messageChinese': '用户已被官方禁用'}
+{'phone': '8801718087780', 'api_id': '10547039', 'api_hash': '542da43fce9f80d93cbf61b927e7d6be', 'status': False, 'message': 'USER_DEACTIVATED_BAN', 'message_code': 1004, 'code': 1004, 'messageEnglish': 'The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)', 'messageChinese': '用户已被官方禁用'}
+{'phone': '8801893886533', 'api_id': '11920834', 'api_hash': '796b9731340e2f68c0b89755e5ddc741', 'status': False, 'message': 'USER_DEACTIVATED_BAN', 'message_code': 1004, 'code': 1004, 'messageEnglish': 'The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)', 'messageChinese': '用户已被官方禁用'}
+{'phone': '8801856850671', 'api_id': '9622791', 'api_hash': '91dd190fcfa1de714f726dca2ef46066', 'status': False, 'message': 'USER_DEACTIVATED_BAN', 'message_code': 1004, 'code': 1004, 'messageEnglish': 'The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)', 'messageChinese': '用户已被官方禁用'}
+{'phone': '917259026591', 'api_id': '11181701', 'api_hash': 'c4cc55b61449831023afc936777dfcfc', 'status': False, 'message': 'USER_DEACTIVATED_BAN', 'message_code': 1004, 'code': 1004, 'messageEnglish': 'The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)', 'messageChinese': '用户已被官方禁用'}
+{'phone': '8801834829886', 'api_id': '16985951', 'api_hash': '738d089e1f73400cbe5e9ddd9298fe06', 'status': False, 'message': 'USER_DEACTIVATED_BAN', 'message_code': 1004, 'code': 1004, 'messageEnglish': 'The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)', 'messageChinese': '用户已被官方禁用'}
+{'phone': '5511969844576', 'is_fake_content': '2', 'code': 10010, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by SendMessageRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'channel': 'https://t.me/mljlq', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'channel': 'https://t.me/botong002', 'phone': '5511967739326', 'code': 1000, 'status': False, 'messageEnglish': 'The key is not registered in the system (caused by ResolveUsernameRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被官方禁用'}
+{'channel': 'https://t.me/wubuxianjingziyuan', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/nbydxyk1', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/Cmcm747', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '917269979012', 'api_id': '19903791', 'api_hash': '2de5ea617b505e4ba073193985c87c1a', 'status': False, 'message': 'USER_DEACTIVATED_BAN', 'message_code': 1004, 'code': 1004, 'messageEnglish': 'The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)', 'messageChinese': '用户已被官方禁用'}
+{'phone': '8801723042156', 'api_id': '11920834', 'api_hash': '796b9731340e2f68c0b89755e5ddc741', 'status': False, 'message': 'USER_DEACTIVATED_BAN', 'message_code': 1004, 'code': 1004, 'messageEnglish': 'The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)', 'messageChinese': '用户已被官方禁用'}
+{'channel': 'https://t.me/b12306', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/shuju48', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '8801734646662', 'api_id': '16985951', 'api_hash': '738d089e1f73400cbe5e9ddd9298fe06', 'status': False, 'message': 'USER_DEACTIVATED_BAN', 'message_code': 1004, 'code': 1004, 'messageEnglish': 'The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)', 'messageChinese': '用户已被官方禁用'}
+{'channel': 'https://t.me/linkdyh', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/olddriverhui', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/BinancePoolChinese', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '5511946505138', 'code': 1008, 'status': False, 'messageEnglish': 'The user has been deleted/deactivated (caused by GetDialogsRequest)', 'message': 'USER_DEACTIVATED_BAN', 'messageChinese': '用户已被删除/停用'}
+{'phone': '8801305447152', 'api_id': '9622791', 'api_hash': '91dd190fcfa1de714f726dca2ef46066', 'status': False, 'message': 'USER_DEACTIVATED_BAN', 'message_code': 1004, 'code': 1004, 'messageEnglish': 'The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)', 'messageChinese': '用户已被官方禁用'}
+{'channel': 'https://t.me/mla9999', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '8801835963756', 'api_id': '19903791', 'api_hash': '2de5ea617b505e4ba073193985c87c1a', 'status': False, 'message': 'USER_DEACTIVATED_BAN', 'message_code': 1004, 'code': 1004, 'messageEnglish': 'The used phone number has been banned from Telegram and cannot be used anymore. Maybe check https://www.telegram.org/faq_spam (caused by SendCodeRequest)', 'messageChinese': '用户已被官方禁用'}
+{'channel': 'https://t.me/MDhuaren1', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/zfb_qq', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/mihuzahuopu', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/tongdao25', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/hwhrbbs', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/NodeGlobal', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/aomenliuhe88', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/USTCtg', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/TG110', 'phone': '919816998214', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/fbwsline2021', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/ydsj1', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/hi_Official_Chinese', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/pigcommunity', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/dockertutorial', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/tronnetworkcn', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/lhc168', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/meizi005', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/weikang2020', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/KavaChinese', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/dibai918', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/cn_talk', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/jfoisjfiodvfd', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/dfsdaeaw', 'phone': '5511965099932', 'code': 1000, 'status': False, 'messageEnglish': 'Nobody is using this username, or the username is unacceptable. If the latter, it must match r"[a-zA-Z][\\w\\d]{3,30}[a-zA-Z\\d]" (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/nanjing025', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'No user has "nanjing025" as username'}
+{'channel': 'https://t.me/socks55555', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/quanqiushouhuo', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/sq577', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'No user has "sq577" as username'}
+{'channel': 'https://t.me/tuishouLL01', 'phone': '5511946797126', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/mljlq', 'phone': '919816998214', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/dibaihrg009', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/bz8822', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/HTCOLV', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/KavaChinese', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/coinbetter_cn', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/ritalin51', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'Nobody is using this username, or the username is unacceptable. If the latter, it must match r"[a-zA-Z][\\w\\d]{3,30}[a-zA-Z\\d]" (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/dibai12', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/ltq33', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/linkdyh', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/goutui', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/pionexcn', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/yuantoushuju5', 'phone': '919816998214', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/tghc1', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/bailaohui_cvv', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/gif128', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/gdr666', 'phone': '919816998214', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/usdthuzhu3', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/wangzhuanusdt', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/xjltq', 'phone': '5511961407655', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '919816998214', 'is_fake_content': '2', 'code': 1008, 'status': False, 'messageEnglish': 'database is locked'}
+{'phone': '919816998214', 'code': 1009, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/usdtm', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/zhifubaojiefeng', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/linkdyh', 'phone': '5511962387906', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/zfb_qq', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/goutui1113', 'phone': '919816998214', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/qht888', 'phone': '5511931736485', 'code': 1000, 'status': False, 'messageEnglish': 'Nobody is using this username, or the username is unacceptable. If the latter, it must match r"[a-zA-Z][\\w\\d]{3,30}[a-zA-Z\\d]" (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/xmsji', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/kmfw56789', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/tz636', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/bozaiweb', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/olddrivergd', 'phone': '919816998214', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/QQXGQQ', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/xingbi0088', 'phone': '5511931736485', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/ritalin51', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'Nobody is using this username, or the username is unacceptable. If the latter, it must match r"[a-zA-Z][\\w\\d]{3,30}[a-zA-Z\\d]" (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/yangjiangchannel', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/bozaiweb', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/gm0008', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/sakura_cloud', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/BinanceChinese', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/TG6766', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/dfsdaeaw', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'Nobody is using this username, or the username is unacceptable. If the latter, it must match r"[a-zA-Z][\\w\\d]{3,30}[a-zA-Z\\d]" (caused by ResolveUsernameRequest)'}
+{'channel': 'https://t.me/botong002', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/discussimmigration', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/ak11828', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/frontend_talk', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/botong002', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/flea66', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/html66', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/universityalliance', 'phone': '919816998214', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/DBhuaren1', 'phone': '919816998214', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/mmx1688888 ', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/MDhuaren1', 'phone': '919816998214', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/pionexcn', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/server699', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/ys52111', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/cn_talk', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/liuxingsq', 'phone': '919816998214', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/bzzone', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/kavachinese', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/usdtbmw', 'phone': '919816998214', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/chaoxi', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/ssunion', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/MDhuaren1', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/TG6766', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/shuju48', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/mf_group', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/gboxtg', 'phone': '8801703168247', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/dibaicn', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/QQXGQQ', 'phone': '917068055943', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/DIP9188', 'phone': '918225905077', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/fbwsline2021', 'phone': '917996677816', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/PHMAKA107', 'phone': '919816998214', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}
+{'channel': 'https://t.me/programertalk', 'phone': '5511969843217', 'code': 1000, 'status': False, 'messageEnglish': 'database is locked'}

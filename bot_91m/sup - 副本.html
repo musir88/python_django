@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<meta charset="utf-8"> 
+		<script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+		<!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+
+<!-- 可选的 Bootstrap 主题文件（一般不用引入） -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
+
+<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+		
+		<title>SUP</title>
+	</head>
+	 
+	<body>
+		<form class="form-inline">
+			<div class="form-group">
+				<button type="button" class="btn btn-primary" id="sup_start">开始</button>
+			</div>
+
+			<div class="form-group">
+				<button type="button" class="btn btn-primary" id="sup_stop">停止</button>
+			</div>
+
+		</form>
+
+
+
+		<div style="margin-top: 100px;margin-left: 50px;margin-bottom: 100px;" id="console"></div>
+
+
+	</body>
+	<script>
+
+
+	var is_getcode = 1;
+	// var myWindow = '';
+	var myWindow2 = '';
+
+	var time_num = 0;
+
+	var sup_status = false;
+
+	$(function(){
+
+		$("#sup_start").click(function(){
+			sup_status = true;
+			get_supphone();
+		});
+
+		$("#sup_stop").click(function(){
+			sup_status = false;
+		});
+
+
+		// console.log($);
+// http://91m.live/telegram_api/get_apinumber
+
+		function get_supphone(){
+
+			if (sup_status === false) {
+				$("body").append("<p>停止</p>");
+				return false;
+			}
+
+
+			// if (is_getcode != '1') return false;
+
+	   		var params = {
+	   			connection_db_name: 'sms-activate.org',
+	   			telegram_colony: 27,
+
+	   		};
+			$.post('http://91m.live/telegram_api/get_apinumber', params, function(result){
+
+				if (result.status === true) {
+
+					// is_getcode = 2
+					$("#console").append("<p>"+result.data.api_info+"</p>");
+					
+					var supurl = 'http://localhost:8888/boss91m/send_code_request?session_string='+result.data.login_phone+'&code=1&submit_step=1&api_hash='+result.data.api_hash+"&api_id="+result.data.api_id;
+					var myWindow = window.open(supurl,'','width=880,height=600');
+					console.log(supurl);
+					// $("#console").append("<p>"+supurl+"</p>");
+
+					setInterval(getsupstatus(result.data.login_phone, myWindow), 3000);
+
+					return false;	
+				} else {
+					$("#console").append("<p>"+result.message+"</p>");
+					setInterval(get_supphone(), 3000);
+				}
+			}, 'json');
+		}
+
+
+		setInterval(get_supphone(), 3000);
+
+
+
+
+
+
+
+
+
+
+
+		function getsupstatus(phone, myWindow){
+
+
+			if(myWindow.closed){
+
+
+
+				$.post('http://91m.live/telegram_api/get_login_phone_info', params, function(result){
+
+					if (result.data.is_del == '2') {
+						// alert('已删除');
+						$("#console").append("<p>"+result.data.register_api_info+" → 注册失败</p>");
+						// $("body").append("<p>"+result.data.register_api_info+" → "+result.data.tg_status+"</p>");
+						return false;
+					}
+
+					console.log(result);
+					// console.log(result.data);
+
+					if (result.data.is_login == '1') {
+						// alert('登录成功');
+						$("#console").append("<p>"+result.data.register_api_info+" → 登录成功</p>");
+						return false;
+					}
+					setInterval(getsupstatus(phone, myWindow), 3000);
+	    		}, 'json');
+
+
+				get_supphone();
+
+
+
+			} else {
+				setInterval(getsupstatus(phone, myWindow), 1000);
+			}
+
+
+
+
+
+
+
+
+
+			return false;
+
+
+
+
+
+
+
+
+			var params = {
+				phone:phone
+			};
+			console.log(params);
+			$.post('http://91m.live/telegram_api/get_login_phone_info', params, function(result){
+
+				if (result.data.is_del == '2') {
+					// alert('已删除');
+					myWindow.close();
+					$("#console").append("<p>"+result.data.register_api_info+" → 注册失败</p>");
+					// $("body").append("<p>"+result.data.register_api_info+" → "+result.data.tg_status+"</p>");
+					is_getcode = 1
+					get_supphone()
+					return false;
+				}
+
+				console.log(result);
+				// console.log(result.data);
+
+				if (result.data.is_login == '1') {
+					// alert('登录成功');
+					$("#console").append("<p>"+result.data.register_api_info+" → 登录成功</p>");
+					myWindow.close();
+					is_getcode = 1
+					get_supphone()
+					console.log(345);
+					return false;
+				}
+				setInterval(getsupstatus(phone, myWindow), 3000);
+    		}, 'json');
+		}
+
+	})
+
+
+
+
+
+		
+	</script>
+ 
+</html>
+

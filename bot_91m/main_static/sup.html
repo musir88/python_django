@@ -1,0 +1,55 @@
+<script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+<script>
+	var is_getcode = 1;
+	var myWindow = '';
+	var myWindow2 = '';
+
+	var time_num = 0;
+
+	$(function(){
+
+		// console.log($);
+// http://91m.live/telegram_api/get_apinumber
+
+		function get_supcode(){
+
+			if (time_num >= 100) {
+				// window.close();
+			}
+
+
+			// return false;
+
+			if (is_getcode != '1') return false;
+			$.post('http://91m.live/telegram_api/get_login_code', {phone:$("#phone").val()}, function(get_login_code_result){
+				console.log(get_login_code_result)
+
+
+				if (get_login_code_result.status === true) {
+					console.log(get_login_code_result.message)
+					is_getcode = 2;
+					$("#code").attr('value', get_login_code_result.message);
+					$("#submit").click();
+					return false;	
+				}
+
+
+				if (get_login_code_result.message == 'delete') {
+					window.close();
+
+					console.log(get_login_code_result.message);
+
+
+				}
+
+
+				time_num = (time_num + 1);
+				setInterval(get_supcode(), 5000);
+			}, 'json');
+
+
+			
+		}
+		setInterval(get_supcode(), 6000);
+	})
+</script>	

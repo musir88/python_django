@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+    {% load static %}
+    <script src="{% static 'jquery.min.js' %}"></script>
+</head>
+
+
+
+
+
+
+<html>
+
+
+<body>
+    <p>{{ message }}</p>
+    <p>{{ phone }}</p>
+
+        <form name="input" action="" method="get"><br>
+        phone: <input type="text" name="session_string" value="{{ phone }}"><br>
+        submit_step: <input type="text" name="submit_step" value="2"><br>
+        code: <input type="text" name="code" value="" id="code"><br>
+        <input type="submit" value="Submit" id="Submit">
+        </form>
+
+
+
+
+
+    <div id="iframe-div">
+
+    </div>
+</body>
+</html>
+
+
+<script>
+
+    var Boss91m = {};
+
+    Boss91m.sign_up_time = 0;
+
+
+    $(function(){
+
+
+        Boss91m.waste_number = function(){
+
+            var params = {
+                phone: '{{ phone }}',
+                action: 'waste_number',
+                tg_status: '{{ message }}',
+            };
+
+            var url_string = [];
+             $.each(params, function(idx, item){
+                url_string.push(url_string, (idx+"="+item));
+             });
+             url_string = url_string.join('&');
+             url_string = admin_host + "?" + url_string;
+             //var iframe = '<iframe src="'+url_string+'" style="display:node; width:100px;height:100px;"></iframe>';
+             //$("#iframe-div").append(iframe);
+             //self.close();
+        }
+
+        var admin_host = "{{ admin_host }}";
+        var status = '{{ status }}';
+        var submit_step = '{{ submit_step }}';
+        var phone = '{{ phone }}';
+
+        if ('{{ status }}' == 'False') {
+            var message = '{{ message }}';
+            if (message == 'The phone code entered was invalid (caused by SignInRequest)') {
+               // Boss91m.waste_number
+            }
+        }
+
+        if (status == 'True') {
+            if (submit_step == '1') {
+
+                // 定时器 获取
+                setInterval(function () {
+                    if (Boss91m.sign_up_time > 80) {
+                        self.close();
+                    }
+
+                    var params = {
+                        phone: phone,
+                    };
+                    consolog.log(params);
+
+<!--                    $.get('/boss91m/get_sign_up',params, function(res){-->
+<!--                        if (res.status === true) {-->
+<!--                            $("#code").val(res.message);-->
+<!--                            $("#Submit").click();-->
+
+<!--                        }-->
+
+<!--                        Boss91m.sign_up_time = Boss91m.sign_up_time + 1;-->
+<!--                    }, 'json');-->
+                }, 50000);
+
+
+            }
+
+
+            if (submit_stop == '2') {
+<!--                  $.get('/boss91m/sign_up_ok',params, function(res_son){-->
+<!--                      self.close();-->
+<!--                  }, 'json');-->
+            }
+
+
+        }
+
+
+
+
+    })
+
+
+</script>

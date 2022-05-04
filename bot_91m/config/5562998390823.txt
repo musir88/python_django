@@ -1,0 +1,1 @@
+{'proxy': (2, '50.114.107.105', '49161', 'tigerfpv', 'V4LEgUcmy7'), 'api': {'api_id': 13283927, 'api_hash': 'd94216a36f2a3b8e9629dc3eadbf69f2'}}{'proxy': (2, '216.185.46.23', '49161', 'tigerfpv', 'V4LEgUcmy7'), 'api': {'api_id': 13283927, 'api_hash': 'd94216a36f2a3b8e9629dc3eadbf69f2'}}
