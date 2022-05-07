@@ -1,0 +1,2 @@
+
+{'phone': '5514997745164', 'api_id': '9178058', 'api_hash': 'ac9c5fa17276de4a4640d52a73219ae7', 'status': False, 'message': 'A wait of 44797 seconds is required (caused by SendCodeRequest)', 'message_code': 1004, 'code': 1004, 'messageEnglish': 'A wait of 44797 seconds is required (caused by SendCodeRequest)'}
